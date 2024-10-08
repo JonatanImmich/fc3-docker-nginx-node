@@ -9,4 +9,4 @@ Esquema de aplicação com 3 Containers "Nginx" "Node" e "MySQL"
 
 > cd fc3-docker-nginx-node
 
-> docker-compose up -d 
+> docker-compose up  
